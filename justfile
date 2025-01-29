@@ -1,4 +1,4 @@
-publisher := "slipway"
+publisher := "slipwayhq"
 name := "echarts_svg"
 
 build:
