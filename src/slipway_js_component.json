@@ -1,6 +1,5 @@
 {
   "scripts": [
-    "echarts-5.5.1.min.js",
-    "run.js"
+    "echarts-5.5.1.min.js"
   ]
 }

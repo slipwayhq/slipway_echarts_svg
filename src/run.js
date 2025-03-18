@@ -1,4 +1,4 @@
-var chart = echarts.init(
+let chart = echarts.init(
   null,
   input.theme,
   {
@@ -9,8 +9,9 @@ var chart = echarts.init(
   });
 chart.setOption({ animation: false, progressive: 0 });
 chart.setOption(input.chart);
-var svg = chart.renderToSVGString();
-var result = {
+
+let svg = chart.renderToSVGString();
+
+export let output = {
   svg: svg
 };
-result;
