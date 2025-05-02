@@ -1,6 +1,6 @@
 # `slipwayhq.echarts_svg`
 
-A [Slipway](https://slipway.co/) Component which takes an [Echarts definition](https://echarts.apache.org/examples/en/index.html)
+A [Slipway](https://slipway.co/) Component which takes an [ECharts definition](https://echarts.apache.org/examples/en/index.html)
 as an input and returns a rendered SVG chart.
 
 ## Suggested Permissions
