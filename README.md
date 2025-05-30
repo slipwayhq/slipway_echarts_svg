@@ -1,5 +1,11 @@
 # `slipwayhq.echarts_svg`
 
+> Important: This has been merged into the
+[`slipway_echarts` repository](https://github.com/slipwayhq/slipway_echarts)
+as the `slipwayhq.echarts__svg` sub-component.
+
+---
+
 A [Slipway](https://slipway.co/) Component which takes an [ECharts definition](https://echarts.apache.org/examples/en/index.html)
 as an input and returns a rendered SVG chart.
 
